@@ -1,17 +1,6 @@
-Name:     Yinji Lu
-Login:    cs8bjf
-File name:   README
-Date:   May 24th 2015
 
+## 2048-Desktop
 
-
-
-Program Description:
-   
-                            Overall:
-
-
-Gui2048:
 This project is to help player of game 2048 to visualize the game when playing
 so that user will have a more direct impression on what is going on in the game
 Moreover, this game will enable user to be able to see the color changing, the
@@ -27,39 +16,3 @@ of the newly combined tiles. Only tiles with the same value will be combined
 together and the tiles on the edge will have priority when it comes to combine
 
 
-Gui2048.java:
-This file contains the main information about this game. It includes the 
-information about the color of the tiles and the value that will be displayed
-on the board
-
-Direction.java:
-This file contains the information about the direction that user can use to 
-move
-
-
-
-Short Response:
-
-1.:%s/foo/bar/g
-  :%s/foo/bar/
-
-2.mkdir -p fooDir/barDir
-
-3.ls *.java
-  This would display all files in the current directory with the java 
-  extension
-
-4.gvim -p *.java
-
-5.static means it is a class method. When invoking a static(class)method, user
-should just type ClassName.methodName(parameter) and inside the method, there
-should not be any place you can access runtime object. Like Math.abs(int)
-
-6.She should not just write one class. Instead she should use hirachy to write
-super class and subclasses. She can write shape as a super class that has the
-general features of different shapes such as shape. For subclass, she can just
-write specific shapes such as circle, rectangle, and squares. Inside each of 
-the subclass, she can write the draw method, which will take color and size,
-for example, as input. Based on the input, the method will draw different 
-shape of different color. This way it will be much more efficient and clear
-than if she only writes one class.
