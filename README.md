@@ -15,4 +15,9 @@ move the tile to the right. The score user obtained will be based on the value
 of the newly combined tiles. Only tiles with the same value will be combined 
 together and the tiles on the edge will have priority when it comes to combine
 
+## Sceenshots
+![Alt text](https://cloud.githubusercontent.com/assets/13673458/14238716/f60339ee-f9e8-11e5-97f8-b0c388a94003.png?raw=true "Optional Title")
+![Alt text](https://cloud.githubusercontent.com/assets/13673458/14238715/f5e6c96c-f9e8-11e5-8b7a-f7bab1469eda.png?raw=true "Optional Title")
+![Alt text](https://cloud.githubusercontent.com/assets/13673458/14238714/f5ce3924-f9e8-11e5-896e-08f58cf557c2.png?raw=true "Optional Title")
+
 
